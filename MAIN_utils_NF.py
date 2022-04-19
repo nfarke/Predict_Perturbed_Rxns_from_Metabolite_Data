@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 15 11:06:24 2019
-
-@author: MLempp
-"""
-
 import numpy as np
 import torch
 import pandas as pd
